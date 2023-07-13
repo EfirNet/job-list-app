@@ -166,12 +166,12 @@ body {
 .job-position-body .badge {
   font-size: 10px;
 }
-.job-position-company {
+.job-postion-company {
   display: flex;
   align-items: center;
   gap: 1rem;
 }
-.job-position-company h3 {
+.job-postion-company h3 {
   margin: 0;
   font-style: var(--fs-normal);
   color: var(--primary);

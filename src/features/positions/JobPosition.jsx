@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
-import { Badge } from 'UI/Badge';
-import { Card } from 'UI/Card';
-import { Stack } from 'UI/Stack';
+import { Badge } from '../../UI/Badge';
+import { Card } from '../../UI/Card';
+import { Stack } from '../../UI/Stack';
 
 const JobPosition = ({
   id,
@@ -27,7 +27,7 @@ const JobPosition = ({
         <div className="job-position-info">
           <img className="job-position-avatar" src={logo} alt={company} />
           <div className="job-position-body">
-            <div className="job-position-company">
+            <div className="job-postion-company">
               <h3>{company}</h3>
               {(isNew || featured) && (
                 <Stack>

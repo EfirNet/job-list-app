@@ -1,6 +1,6 @@
 <div align="center">
 
-The **JOB TODO LIST** test application <br />was created using the `React.js` library <br />and the `Redux` state management library.
+The **JOB TODO LIST** test application <br />was created using the `React.js` library <br />and the `Redux-Toolkit` state management library.
 </div>
 <br />
 <br />
@@ -8,6 +8,6 @@ The **JOB TODO LIST** test application <br />was created using the `React.js` li
 <br />
 <div align="right"  title="Linus Torvalds is the famous programmer and creator of the Linux operating system kernel.">
 
-> *"The Internet is like a playground for programmers." - Linus Torvalds*
+> *"Intelligence is the ability to avoid doing work, yet getting the work done." - Linus Torvalds*
 
 </div>
